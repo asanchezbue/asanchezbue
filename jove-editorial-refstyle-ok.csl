@@ -59,7 +59,6 @@
       </if>
     </choose>
   </macro>
-  <macro name="publisher"/>
   <macro name="access">
     <choose>
       <if variable="URL"/>
