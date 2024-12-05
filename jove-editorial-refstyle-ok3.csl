@@ -77,10 +77,10 @@
 <macro name="container-title">
     <choose>
       <if type="article-journal chapter article-magazine article review review-book book" match="all">
-        <text variable="collection-title" form="short" font-style="italic" prefix=" "/>
+        <text variable="container-title" form="short" font-style="italic" prefix=" "/>
       </if>
       <else>
-        <text variable="collection-title" font-style="italic"/>
+        <text variable="container-title" font-style="italic"/>
       </else>
     </choose>
   </macro>
