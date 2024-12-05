@@ -5,7 +5,7 @@
     <title>JOVE editorial</title>
     <title-short>JOVE</title-short>
     <id>https://github.com/asanchezbue/jove-editorial-refstyle</id>
-    <link href="https://github.com/asanchezbue/asanchezbue/blob/main/jove-editorial-refstyle.csl" rel="self"/>
+    <link href="https://raw.githubusercontent.com/asanchezbue/asanchezbue/refs/heads/main/jove-editorial-refstyle.csl" rel="self"/>
     <author>
       <name>Andrea SB</name>
     </author>
